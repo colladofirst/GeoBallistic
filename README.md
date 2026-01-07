@@ -4,7 +4,8 @@ C++ program that computes the geodesic distance between two points on Earth
 using the Haversine formula and explores an idealized classical physics model
 to estimate velocities, forces and energies.
 
-⚠️⚠️⚠️ **Disclaimer**  ⚠️⚠️⚠️
+  ⚠️⚠️⚠️ **Disclaimer**  ⚠️⚠️⚠️
+
 This project is purely theoretical and educational.  
 It relies on highly simplified classical models and does **not** represent
 real-world ballistic, aerospace or physical systems.
