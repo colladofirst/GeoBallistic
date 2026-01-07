@@ -75,8 +75,8 @@ of simplified models.
 - Introduce air resistance and less idealized mechanism
 - Implement a Relativity work model for v>≈90%c
 - Computation of other physics variables such as W,P,etc
--Implement a more realistic launch mechanism
--Implement mathematical|visual functions to represent the movement beetween the Earth.
+- Implement a more realistic launch mechanism
+- Implement mathematical|visual functions to represent the movement beetween the Earth.
 
 ---
 
