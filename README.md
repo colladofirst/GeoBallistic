@@ -74,10 +74,10 @@ of simplified models.
 - Introduce gravity and trajectory simulation
 - Improve numerical stability and unit handling
 - Introduce air resistance and less idealized mechanism
-- Implement a Relativity work model for v>≈90%c
+- Implement a Relativiistic model for v>≈90%c
 - Computation of other physics variables such as W,P,etc
 - Implement a more realistic launch mechanism
-- Implement mathematical|visual functions to represent the movement beetween the Earth.
+- Implement mathematical and visual tools to show the movement graphically
 
 ---
 
